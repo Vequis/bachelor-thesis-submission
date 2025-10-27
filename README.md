@@ -1,2 +1,2 @@
 # bachelor-thesis-submission
-Bachelor Thesis Submission
+README not ready yet (27.10)
